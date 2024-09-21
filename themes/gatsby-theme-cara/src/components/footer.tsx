@@ -20,6 +20,8 @@ const Footer = () => {
       >
         {isDark ? `Light` : `Dark`}
       </button>
+      
+      /*
       Copyright &copy; {new Date().getFullYear()}. All rights reserved.
       <br />
       <Flex
@@ -54,6 +56,8 @@ const Footer = () => {
           LekoArts
         </Link>
       </Flex>
+      
+      */
     </Box>
   )
 }
